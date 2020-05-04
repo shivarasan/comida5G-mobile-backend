@@ -1,0 +1,6 @@
+logfile
+node_modules/
+package-lock.json
+src/access.log
+yarn-error.log
+yarn.lock
